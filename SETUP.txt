@@ -1,0 +1,9 @@
+BASEBALL COLLECTION — IPHONE PUBLISHING KIT
+
+GitHub Pages: Settings > Pages > Deploy from a branch > main / (root) > Save.
+Then open the published URL in iPhone Safari > Share > Add to Home Screen.
+
+WARNING: Published inventory in index.html is publicly accessible.
+Offline support requires index.html, manifest.webmanifest, sw.js and icon files and a successful initial online load.
+Automatic Google Drive backups are NOT configured. Export manually until authorized and tested.
+The permanent Baseball Master is not edited by the website.
